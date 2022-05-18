@@ -1,7 +1,7 @@
 # Computational Physics 1 at Yachay Tech University
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out at Yachay Tech from May to September 2022.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University from May to September 2022.
 
 ## Lecturer:
 Wladimir Banda Barragán
