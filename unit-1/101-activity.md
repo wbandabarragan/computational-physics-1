@@ -96,7 +96,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 #### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
 
-https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/Installation_from_notebook.ipynb
+[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/102-notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/102-notebook.ipynb)
 
 
 ### On Windows:
