@@ -1,4 +1,6 @@
-# Computational Physics 1 at Yachay Tech University
+# Computational Physics I 
+
+## Yachay Tech University - 2022
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University from May to September 2022.
