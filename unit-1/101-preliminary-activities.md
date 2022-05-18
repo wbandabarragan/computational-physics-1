@@ -120,4 +120,3 @@ Assumming all the steps above went well, and you were able to create your first 
 - https://swcarpentry.github.io/python-novice-gapminder/
 
 Please make sure you are familiar with the material above as there will be little time to cover technicalities.
-
