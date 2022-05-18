@@ -19,7 +19,6 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 
 ## How do I test Google Colab?
 1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb)
-1. Download this notebook: 
 2. Open Goole Colab
 3. Upload the notebook, and run it. If you see a plot of sin(x) vs. x, your local Google Colab works.
 
