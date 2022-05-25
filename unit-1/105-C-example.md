@@ -18,11 +18,11 @@
 
 4. Now, let us check which environment you have:<br>
 ~~~~html
-  	#include <stdio.h>
+	#include <stdio.h>
 	int main() {
-    printf("Hola Mundo.\n");
+	printf("Hola Mundo.\n");
     return 0;
-}
+	}
 ~~~~
 
 5. This program will will print a string of characters on the screen, but we need to compile it first.<br>
