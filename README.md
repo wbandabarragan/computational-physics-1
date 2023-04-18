@@ -66,6 +66,8 @@ This course provides an introduction to basic methods and techniques used in com
 
 ## Evaluation:
 
+Evaluation has 4 components, with weights distributed as follows:
+
 1. Formative Evaluation (2 Homework): 20%
 
 2. Laboratory (2 Classwork): 20%
@@ -75,11 +77,11 @@ This course provides an introduction to basic methods and techniques used in com
 4. 1 Final Exam: 30%
 
 
-Homework include long application problems.
+- Homework include long application problems.
 
-Classwork are quizzes with two components: one is carried out in class, one is carried out at home.
+- Classwork are quizzes with two components: one is carried out in class, one is carried out at home.
 
-Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
+- Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
 
 ## Very important policies:
