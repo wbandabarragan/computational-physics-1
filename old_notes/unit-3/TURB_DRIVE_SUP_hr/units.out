@@ -1,0 +1,5 @@
+variable,normalisation,units
+rho_0,1.660e-24,g/cm^3
+v_0,1.000e+06,cm/s
+L_0,3.086e+18,cm
+c_iso,1.000e+06,cm/s
