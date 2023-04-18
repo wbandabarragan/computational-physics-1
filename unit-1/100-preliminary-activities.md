@@ -1,13 +1,15 @@
-# Computational Physics 1
-
-# Introduction and preliminary activities
+# Lecture 100: Introduction and preliminary activities
 
 This course focuses on python, we will use python3 as python2 is not supported anymore.
 
 Similarly, we will use jupyter notebooks (.ipynb) for the courses taught in this class.
 
+The extension .ipynb stands for interactive python notebooks.
+
 - Jupyter notebooks are useful tools for learning programming because they provide a visual interface.
+
 - You can see the results of your code live, instead of waiting till your script (.py) finishes running in a terminal.
+
 
 To be able to use python and jupyter notebooks in your laptop/PC, there are several options:
 
@@ -18,12 +20,12 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 - The disadvantage is that Colab provides limited memory resources and very limited disc space since everything is stored in a cloud, so you can only use it to process small datasets.
 
 ## How do I test Google Colab?
-1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb)
-2. Open Goole Colab
-3. Upload the notebook, and run it. If you see a plot of sin(x) vs. x, your local Google Colab works.
+1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb)
+2. Open Goole Colab (you will need to log into your Yachay email accounts).
+3. Upload the notebook, and run it. If you see the plots, Google Colab works.
 
 ## Anaconda/Miniconda (Recommended, see https://anaconda.org/):
-Another option is to have python (and all the libraries you need to analyse your datasets) installed in your laptop. This can also be done in many ways, but anaconda is now very popular because it provides good portability and an interface that allows the user to include extra kernels for other programming languages. Anaconda has the advantage that you have all the code you need locally in your laptop. In the long term, using Anaconda will be much more advantageous.
+Another option is to have python (and all the libraries you need to analyse your datasets) installed in your laptop/PC. This can also be done in many ways, but anaconda is now very popular because it provides good portability and an interface that allows the user to include extra kernels for other programming languages. Anaconda has the advantage that you have all the code you need locally in your laptop. In the long term, using Anaconda will be much more advantageous.
 
 # Installation instructions
 
@@ -33,7 +35,7 @@ Download Anaconda from this website: https://www.anaconda.com/products/individua
 ### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
-#### Option A: Installation from a terminal (recommended)
+#### Installation from a terminal (recommended)
 
 1. Open a terminal window.<br>
 
@@ -92,17 +94,13 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 10. Once the notebook is open, you can start coding your first notebook:<br>
 
-[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-notebook.ipynb)
-
-#### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
-
-[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/102-notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/102-notebook.ipynb)
+[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb)
 
 
 ### On Windows:
 If you are using Windows, I highly recommend either:
 
-1. setting up a dual partition in your hard drive with both Windows and Linux, or
+1. setting up a dual partition in your hard drive with both Windows and Linux (make sure you back up your data before), or
 2. setting up a Virtual Machine (VM) with a linux distribution. For this:
 
 - Download VirtualBox from: https://www.virtualbox.org/
@@ -114,7 +112,7 @@ In the long term, you may want to fully switch to Unix-based operating systems. 
 
 
 ## How do I test and use Anaconda?
-Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on jupyter notebooks and basic python:
+Assuming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on jupyter notebooks and basic python:
 
 - https://datacarpentry.org/python-ecology-lesson/jupyter_notebooks/
 - https://swcarpentry.github.io/python-novice-gapminder/
