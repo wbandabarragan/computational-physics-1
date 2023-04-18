@@ -1,4 +1,4 @@
-# Lecture 100: Introduction and preliminary activities
+# Lecture 102: Introduction to Anaconda
 
 This course focuses on python, we will use python3 as python2 is not supported anymore.
 
@@ -13,7 +13,7 @@ The extension .ipynb stands for interactive python notebooks.
 
 To be able to use python and jupyter notebooks in your laptop/PC, there are several options:
 
-## Google Colab (see https://colab.research.google.com/):
+# 1. Google Colab (see https://colab.research.google.com/):
 One option is to use Google Colab, which we will use in the classroom. For this you would need a Gmail account, which is conveniently provided by Yachay Tech.
 
 - The advantage of using Google Colab is that all libraries are installed in a Linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc.
@@ -24,7 +24,7 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 2. Open Goole Colab (you will need to log into your Yachay email accounts).
 3. Upload the notebook, and run it. If you see the plots, Google Colab works.
 
-## Anaconda/Miniconda (Recommended, see https://anaconda.org/):
+# 2. Anaconda/Miniconda (Recommended, see https://anaconda.org/):
 Another option is to have python (and all the libraries you need to analyse your datasets) installed in your laptop/PC. This can also be done in many ways, but anaconda is now very popular because it provides good portability and an interface that allows the user to include extra kernels for other programming languages. Anaconda has the advantage that you have all the code you need locally in your laptop. In the long term, using Anaconda will be much more advantageous.
 
 # Installation instructions
@@ -108,7 +108,9 @@ If you are using Windows, I highly recommend either:
 
 After the installation of the VM is successful, follow the instructions provided above for Linux/MacOSX systems to set up your Anaconda installation.
 
-In the long term, you may want to fully switch to Unix-based operating systems. Ubuntu is a popular and user-friendly option.
+In the long term, you may want to fully switch to Unix-based operating systems. Ubuntu is a popular and user-friendly option:
+
+Ubuntu webpage: https://ubuntu.com/
 
 
 ## How do I test and use Anaconda?
