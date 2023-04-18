@@ -66,17 +66,52 @@ This course provides an introduction to basic methods and techniques used in com
 
 ## Evaluation:
 
-1. Formative Evaluation (Homework): 20%
+1. Formative Evaluation (2 Homework): 20%
 
-2. Laboratory (Classwork): 20%
+2. Laboratory (2 Classwork): 20%
 
-3. Midterm Exam: 30%
+3. 1 Midterm Exam: 30%
 
-4. Final Exam: 30%
+4. 1 Final Exam: 30%
 
-## Important notes:
 
-There will be no make-up assignments nor make-up exams.
+Homework include long application problems.
 
-Late assignments/exams without justification won't be accepted.
+Classwork are quizzes with two components: one is carried out in class, one is carried out at home.
+
+Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
+
+
+## Very important policies:
+
+There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
+
+Late assignments without appropriate justification will receive a penalisation according to the following criteria:
+
+- 0-1 day late: -25%
+- 1-2 days late: -50%
+- 2-3 days late: -75%
+- > 3 days late: no marks
+
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
+
+
+## Calendar:
+
+All dates have a +/- 1 week error bar:
+
+1. Classwork 1: Tuesday 02/05/2023
+
+2. Homework 1: Tuesday 23/05/2023
+
+3. Midterm exam: Tuesday 13/06/2023
+
+4. Classwork 2: Tuesday 04/07/2023
+
+5. Homework 2: Tuesday 25/07/2023
+
+6. Final Exam: Tuesday 08/08/2023
+
+
+
 
