@@ -20,7 +20,7 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 - The disadvantage is that Colab provides limited memory resources and very limited disc space since everything is stored in a cloud, so you can only use it to process small datasets.
 
 ## How do I test Google Colab?
-1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb)
+1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb)
 2. Open Goole Colab (you will need to log into your Yachay email accounts).
 3. Upload the notebook, and run it. If you see the plots, Google Colab works.
 
@@ -94,7 +94,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 10. Once the notebook is open, you can start coding your first notebook:<br>
 
-[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101_first_notebook.ipynb)
+[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb)
 
 
 ### On Windows:
