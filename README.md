@@ -113,6 +113,9 @@ All dates have a +/- 1 week error bar:
 **6. Final Exam:** Tuesday 08/08/2023
 
 
+The definite assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
+
+
 ## Weekly tutoring schedule:
 
 If you have questions on the material, you can find me in the office:
@@ -122,3 +125,10 @@ If you have questions on the material, you can find me in the office:
 - On Thursdays: 16:00 – 17:00
 
 
+## On academic integrity:
+
+- Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
+
+- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from other students, or from previous years' solutions are all breaches of academic integrity.
+
+- Academic misconduct will be penalised according to the University’s regulations.
