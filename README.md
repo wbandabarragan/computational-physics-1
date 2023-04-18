@@ -91,7 +91,7 @@ Late assignments without appropriate justification will receive a penalisation a
 - 0-1 day late: -25%
 - 1-2 days late: -50%
 - 2-3 days late: -75%
-- > 3 days late: no marks
+- +3 days late: no marks
 
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
 
