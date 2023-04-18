@@ -100,17 +100,17 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 All dates have a +/- 1 week error bar:
 
-1. Classwork 1: Tuesday 09/05/2023
+**1. Classwork 1:** Tuesday 09/05/2023
 
-2. Homework 1: Tuesday 30/05/2023
+**2. Homework 1:** Tuesday 30/05/2023
 
-3. Midterm exam: Tuesday 13/06/2023
+**3. Midterm exam:** Tuesday 13/06/2023
 
-4. Classwork 2: Tuesday 04/07/2023
+**4. Classwork 2:** Tuesday 04/07/2023
 
-5. Homework 2: Tuesday 25/07/2023
+**5. Homework 2:** Tuesday 25/07/2023
 
-6. Final Exam: Tuesday 08/08/2023
+**6. Final Exam:** Tuesday 08/08/2023
 
 
 
