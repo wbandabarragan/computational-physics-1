@@ -68,14 +68,15 @@ This course provides an introduction to basic methods and techniques used in com
 
 Evaluation has 4 components, with weights distributed as follows:
 
-1. Formative Evaluation (2 Homework): 20%
+**1. Formative Evaluation (2 Homework):** 20%
 
-2. Laboratory (2 Classwork): 20%
+**2. Laboratory (2 Classwork):** 20%
 
-3. 1 Midterm Exam: 30%
+**3. 1 Midterm Exam:** 30%
 
-4. 1 Final Exam: 30%
+**4. 1 Final Exam:** 30%
 
+These components consist of the following tasks:
 
 - Homework include long application problems.
 
@@ -91,8 +92,11 @@ There will be neither make-up assignments nor make-up exams. Please do your best
 Late assignments without appropriate justification will receive a penalisation according to the following criteria:
 
 - 0-1 day late: -25%
+
 - 1-2 days late: -50%
+
 - 2-3 days late: -75%
+
 - +3 days late: no marks
 
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
