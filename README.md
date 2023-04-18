@@ -113,5 +113,12 @@ All dates have a +/- 1 week error bar:
 **6. Final Exam:** Tuesday 08/08/2023
 
 
+## Weekly tutoring schedule:
+
+If you have questions on the material, you can find me in the office:
+
+- On Tuesdays: 15:00 – 16:00 
+
+- On Thursdays: 16:00 – 17:00
 
 
