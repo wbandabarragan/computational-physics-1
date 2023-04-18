@@ -3,7 +3,7 @@
 ## Yachay Tech University - 2023
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University from May to September 2022.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University from April to August 2023.
 
 ## Lecturer:
 Wladimir Banda Barragán
@@ -16,38 +16,52 @@ This course provides an introduction to basic methods and techniques used in com
 ### UC.1 Data analysis and visualisation
 
 - Introduction to computer science and scientific programming
-- Errors and uncertainties in computations, computer algorithms, and languages
-- Object-oriented programming, data input/output, plotting, statistics, data fitting, and regression
-- Function approximation, interpolation and extrapolation, Spline approximation.
+
+- Errors and uncertainties in computations, computer algorithms, and languages
+
+- Object-oriented programming, data input/output, plotting, statistics, data fitting, and regression
+
+- Function approximation, interpolation and extrapolation, Spline approximation.
 
 ### UC.2 Linear algebra and matrices in physics
 
 - Array programming, vectors, matrices, and images
-- Matrix operations, basic image processing, and visualisation tools
-- Linear equation systems and eigenvalue problems
-- Iterative methods for linear and non-linear systems
+
+- Matrix operations, basic image processing, and visualisation tools
+
+- Linear equation systems and eigenvalue problems
+
+- Iterative methods for linear and non-linear systems
 
 ### UC.3 Numerical calculus
 
 - Numerical differentiation
-- Numerical integration
+
+- Numerical integration
 
 - Numerical optimisation, root-finding and extreme values of functions.
-- Computational thinking for modelling and simulation in physics
+
+- Computational thinking for modelling and simulation in physics
 
 ### UC.4 Spectral analysis and Monte Carlo techniques
 
 - Fourier analysis, discrete Fourier transform and the Fast Fourier transform algorithm
-- Wavelet analysis and discrete wavelet transform
-- Introduction to Monte Carlo methods
-- Monte Carlo simulations and applications
+
+- Wavelet analysis and discrete wavelet transform
+
+- Introduction to Monte Carlo methods
+
+- Monte Carlo simulations and applications
 
 ### UC.5 Differential equations
 
 - Ordinary differential equations, and initial-value problems
-- The Runge-Kutta methods, boundary-value and eigenvalue problems with applications
-- Discrete and continuous nonlinear dynamics
-- Introduction to partial differential equations
+
+- The Runge-Kutta methods, boundary-value and eigenvalue problems with applications
+
+- Discrete and continuous nonlinear dynamics
+
+- Introduction to partial differential equations
 
 
 ## Evaluation:
