@@ -106,7 +106,7 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 All dates have a +/- 1 week error bar:
 
-**1. Classwork 1:** Tuesday 09/05/2023
+**1. Classwork 1:** Thursday 18/05/2023
 
 **2. Homework 1:** Tuesday 30/05/2023
 
