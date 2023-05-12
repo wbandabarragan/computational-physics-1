@@ -137,4 +137,4 @@ If you have questions on the material, you can find me in the office:
 
 - Cheating in exams, plagiarising, and copying code or solutions from the Internet, from other students, or from previous years' solutions are all breaches of academic integrity.
 
-- Academic misconduct will be penalised according to the University’s regulations.
+- Academic misconduct will be penalised according to our University’s regulations.
