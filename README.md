@@ -108,9 +108,9 @@ All dates have a +/- 1 week error bar:
 
 **1. Classwork 1:** Friday 19/05/2023
 
-**2. Homework 1:** Tuesday 30/05/2023
+**2. Homework 1:** Friday 30/06/2023
 
-**3. Midterm exam:** Tuesday 20/06/2023
+**3. Midterm exam:** Tuesday 27/06/2023
 
 **4. Classwork 2:** Tuesday 04/07/2023
 
