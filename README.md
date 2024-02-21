@@ -1,9 +1,9 @@
 # Computational Physics I 
 
-## Yachay Tech University - 2023
+## Yachay Tech University - 2024
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University from April to August 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University.
 
 ## Lecturer:
 Wladimir Banda Barragán
@@ -91,35 +91,20 @@ There will be neither make-up assignments nor make-up exams. Please do your best
 
 Late assignments without appropriate justification will receive a penalisation according to the following criteria:
 
-- 0-1 day late: -25%
+- 0-1 day late: -24%
 
-- 1-2 days late: -50%
+- 1-2 days late: -48%
 
-- 2-3 days late: -75%
+- 2-3 days late: -72%
 
 - +3 days late: no marks
 
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
 
 
-## Calendar:
+## On deadlines:
 
-All dates have a +/- 1 week error bar:
-
-**1. Classwork 1:** Friday 19/05/2023
-
-**2. Homework 1:** Friday 30/06/2023
-
-**3. Midterm exam:** Tuesday 27/06/2023
-
-**4. Homework 2:** Friday 21/07/2023
-
-**5. Classwork 2:** Tuesday 25/07/2023
-
-**6. Final Exam:** Tuesday 08/08/2023
-
-
-The definite assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
+The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
 
 
 ## Weekly tutoring schedule:
