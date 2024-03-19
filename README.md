@@ -120,6 +120,8 @@ If you have questions on the material, you can find me in the office:
 
 - Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
 
-- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from other students, or from previous years' solutions are all breaches of academic integrity.
+- Cheating in exams, plagiarising, and copying code or solutions from other students, from previous years' solutions, and/or from Internet sources are all breaches of academic integrity.
+  
+- Note that the above includes copying code from AI chatbots (which are not designed for physics nor programming), e.g. copying and pasting code from chatGPT infringes academic integrity.
 
 - Academic misconduct will be penalised according to our University’s regulations.
