@@ -125,3 +125,7 @@ If you have questions on the material, you can find me in the office:
 - The above includes copying code from AI chatbots (which are neither designed nor optimised for physics and programming), e.g. copying and pasting code from chatGPT infringes academic integrity.
 
 - Academic misconduct will be penalised according to our University’s regulations.
+
+## Acknowledgements:
+
+I would like to thank my former student and teaching assistant, Gabriel Balarezo (https://github.com/GabrielBJ), for his valuable support and help in tutoring this course during the first semester of 2024.
