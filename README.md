@@ -63,6 +63,12 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Introduction to partial differential equations
 
+## Full Course Syllabus and Programme:
+
+The full course syllabus can be found here:
+
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/SYL_ECFN1009_Mecanica%20Cuantica_ing.pdf
+
 
 ## Evaluation:
 
