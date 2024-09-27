@@ -67,7 +67,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 The full course syllabus can be found here:
 
-https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/SYL_ECFN1009_Mecanica%20Cuantica_ing.pdf
+https://github.com/wbandabarragan/computational-physics-1/blob/main/SYL_ECFN1015_Fisica%20Computacional%20I_ing.pdf
 
 
 ## Evaluation:
