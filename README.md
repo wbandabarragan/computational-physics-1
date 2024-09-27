@@ -117,9 +117,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Wednesdays:
+- On Tuesdays: 14:00 - 15:00
 
-- On Fridays:
+- On Wednesdays: 15:00 - 16:00
 
 
 ## On academic integrity:
