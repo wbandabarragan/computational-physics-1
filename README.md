@@ -91,23 +91,6 @@ These components consist of the following tasks:
 - Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
 
-## Very important policies:
-
-There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
-
-Late assignments without appropriate justification will receive a penalisation according to the following criteria:
-
-- 0-1 day late: -24%
-
-- 1-2 days late: -48%
-
-- 2-3 days late: -72%
-
-- +3 days late: no marks
-
-Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
-
-
 ## On deadlines:
 
 The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
@@ -131,6 +114,9 @@ If you have questions on the material, you can find me in the office:
 - The above includes copying code from AI chatbots (which are neither designed nor optimised for physics and programming), e.g. copying and pasting code from chatGPT infringes academic integrity.
 
 - Academic misconduct will be penalised according to our University’s regulations.
+
+## Late assignment policy:
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
 
 ## Acknowledgements:
 
