@@ -121,3 +121,10 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 ## Acknowledgements:
 
 I would like to thank my former students and teaching assistants, Gabriel Balarezo (https://github.com/GabrielBJ) and Yorlan Males (https://github.com/whyyorlantaken), for their valuable support and help in tutoring this course in 2024.
+
+## Useful repositories: 
+
+- Data repository: https://github.com/wbandabarragan/physics-teaching-data
+
+- Archived versions of the CP2 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-1-arxiv
+
