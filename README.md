@@ -76,7 +76,7 @@ Evaluation has 4 components, with weights distributed as follows:
 
 **1. Formative Evaluation (2 Homework):** 20%
 
-**2. Laboratory (2 Classwork):** 20%
+**2. Laboratory (at least 4 Quizzes):** 20%
 
 **3. 1 Midterm Exam:** 30%
 
