@@ -1,6 +1,6 @@
 # Computational Physics I 
 
-## Yachay Tech University - 2024
+## Yachay Tech University - 2025
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University.
@@ -100,9 +100,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 14:00 - 15:00
+- On Tuesdays: 10:00 - 11:00
 
-- On Wednesdays: 15:00 - 16:00
+- On Thursdays: 15:00 - 16:00 
 
 
 ## On academic integrity:
@@ -120,4 +120,4 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 ## Acknowledgements:
 
-I would like to thank my former student and teaching assistant, Gabriel Balarezo (https://github.com/GabrielBJ), for his valuable support and help in tutoring this course during the first semester of 2024.
+I would like to thank my former students and teaching assistants, Gabriel Balarezo (https://github.com/GabrielBJ) and Yorlan Males (https://github.com/whyyorlantaken), for their valuable support and help in tutoring this course in 2024.
