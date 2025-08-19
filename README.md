@@ -23,7 +23,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Function approximation, interpolation and extrapolation, Spline approximation.
 
-### UC.2 Linear algebra and matrices in physics
+### UC.2 Linear algebra, matrices and images in physics
 
 - Array programming, vectors, matrices, and images
 
