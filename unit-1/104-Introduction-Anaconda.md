@@ -1,4 +1,4 @@
-# Lecture 102: Introduction to Anaconda
+# Lecture 104: Introduction to Anaconda
 
 This course focuses on python, we will use python3 as python2 is not supported anymore.
 
