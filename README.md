@@ -15,60 +15,61 @@ This course provides an introduction to basic methods and techniques used in com
 
 ### UC.1 Data analysis and visualisation
 
-- Introduction to computer science and scientific programming
+- Introduction to computer science, Linux operating systems, and scientific programming
 
-- Errors and uncertainties in computations, computer algorithms, and languages
+- Errors and uncertainties in computing, computer algorithms, and programming languages
 
-- Object-oriented programming, data input/output, plotting, statistics, data fitting, and regression
+- Object-oriented programming, data reading/writing, graphics, statistics, data fitting, and regression
 
-- Function approximation, interpolation and extrapolation, Spline approximation.
+- Function approximation, interpolation and extrapolation, Spline approximation
 
-### UC.2 Linear algebra and matrices in physics
+### UC.2 Linear algebra, matrices, and images in physics
 
-- Array programming, vectors, matrices, and images
+- Systems of linear and nonlinear equations. Gaussian and iterative methods. Eigenvalue problems
+
+- Array programming. Linear algebra, vectors, matrices, and images
 
 - Matrix operations, basic image processing, and visualisation tools
 
-- Linear equation systems and eigenvalue problems
+- Scientific data formats, animations, and scientific visualisation
 
-- Iterative methods for linear and non-linear systems
+### UC.3 Numerical Calculus and Optimization
 
-### UC.3 Numerical calculus
+- Numerical differentiation, symbolic algebra, discretisation, and numerical error analysis
 
-- Numerical differentiation
+- Numerical integration, symbolic algebra, discretisation, and numerical error analysis
 
-- Numerical integration
+- Derivatives and integrals in N-dimensional data, based on computational grids. Applications for image analysis and data cubes
 
-- Numerical optimisation, root-finding and extreme values of functions.
+- Numerical optimisation, root finding, and extreme values of functions
 
-- Computational thinking for modelling and simulation in physics
+### UC.4 Fourier Analysis and Applications
 
-### UC.4 Spectral analysis and Monte Carlo techniques
+- Fourier Series and introduction to Fourier Analysis
 
-- Fourier analysis, discrete Fourier transform and the Fast Fourier transform algorithm
+- Discrete Fourier Transform and the Fast Fourier Transform Algorithm. Applications to 1D and 2D signals
 
-- Wavelet analysis and discrete wavelet transform
+- Fourier Filter Design and Noise Removal in N-Dimensional Signals
 
-- Introduction to Monte Carlo methods
+- Gaussian Smoothing and Edge Detectors. Applications to Scientific Imaging
 
-- Monte Carlo simulations and applications
+### UC.5 Special Topics in Computational Physics
 
-### UC.5 Differential equations
+- Wavelet analysis and discrete wavelet transform. Applications to non-static signals
 
-- Ordinary differential equations, and initial-value problems
+- Introduction to Monte Carlo methods. Monte Carlo simulations
 
-- The Runge-Kutta methods, boundary-value and eigenvalue problems with applications
+- Applications of Monte Carlo, random walks, and radioactive decay
 
-- Discrete and continuous nonlinear dynamics
-
-- Introduction to partial differential equations
+- Ordinary differential equations and initial value problems
 
 ## Full Course Syllabus and Programme:
 
 The full course syllabus can be found here:
 
-https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_ISEM2025_fisica.pdf
+- For BSc in Physics: https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_IISEM2025_fisica.pdf
 
+- For BSc in Nanotechnology: https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_IISEM2025_nano.pdf
 
 ## Evaluation:
 
@@ -119,15 +120,19 @@ If you have questions on the material, you can find me in the office:
 - Academic misconduct will be penalised according to our University’s regulations.
 
 ## Late assignment policy:
+
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
 
 ## Acknowledgements:
 
-I would like to thank my former students and teaching assistants, Gabriel Balarezo (https://github.com/GabrielBJ) and Yorlan Males (https://github.com/whyyorlantaken), for their valuable support and help in tutoring this course in 2024.
+I would like to thank my former students and teaching assistants for their valuable support and help in tutoring this course:
+
+- Gabriel Balarezo (https://github.com/GabrielBJ)
+
+- Yorlan Males (https://github.com/whyyorlantaken)
 
 ## Useful repositories: 
 
 - Data repository: https://github.com/wbandabarragan/physics-teaching-data
 
-- Archived versions of the CP2 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-1-arxiv
-
+- Archived versions of the CP1 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-1-arxiv
