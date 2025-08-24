@@ -71,6 +71,17 @@ The full course syllabus can be found here:
 
 - For BSc in Nanotechnology: https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_IISEM2025_nano.pdf
 
+
+## References and bibliography:
+
+1. Landau, Rubin, Computational physics : problem solving with python, 3rd Edition, 2015.
+
+2. Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 1st Edition, 2020 (https://pythonnumericalmethods.be
+rkeley.edu/notebooks/Index.html).
+   
+3. Pang, Tao, An introduction to computational physics, 2nd Edition, 2006.
+
+
 ## Evaluation:
 
 Evaluation has 4 components, with weights distributed as follows:
