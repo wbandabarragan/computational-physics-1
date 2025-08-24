@@ -138,7 +138,7 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 I would like to thank my former students and teaching assistants for their valuable support and help in tutoring this course:
 
-- Gabriel Balarezo (https://github.com/GabrielBJ)
+- Gabriel Balarezo (https://github.com/quantum-gabo)
 
 - Yorlan Males (https://github.com/whyyorlantaken)
 
