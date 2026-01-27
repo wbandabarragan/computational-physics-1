@@ -1,2 +1,0 @@
-This is our first txt file.
-Written from VIM on a laptop.
