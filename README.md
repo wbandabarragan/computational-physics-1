@@ -1,6 +1,6 @@
 # Computational Physics I 
 
-## Yachay Tech University - 2025
+## Yachay Tech University - 2026
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University.
@@ -13,17 +13,27 @@ This course provides an introduction to basic methods and techniques used in com
 
 ## Syllabus:
 
-### UC.1 Data analysis and visualisation
+### UC.1 Introduction to computer science
 
-- Introduction to computer science, Linux operating systems, and scientific programming
+- Introduction to computer science and programming tools
 
-- Errors and uncertainties in computing, computer algorithms, and programming languages
+- Linux operating systems and scientific programming
 
-- Object-oriented programming, data reading/writing, graphics, statistics, data fitting, and regression
+- Errors and uncertainties in computing
+
+- Computer algorithms and programming languages
+
+### UC.2 Data analysis and visualisation
+
+- Python essentials
+
+- Procedural vs. Object-oriented programming
+
+- Data reading/writing, graphics, statistics, data fitting, and regression
 
 - Function approximation, interpolation and extrapolation, Spline approximation
 
-### UC.2 Linear algebra, matrices, and images in physics
+### UC.3 Linear algebra, matrices, and images in physics
 
 - Systems of linear and nonlinear equations. Gaussian and iterative methods. Eigenvalue problems
 
@@ -33,7 +43,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Scientific data formats, animations, and scientific visualisation
 
-### UC.3 Numerical Calculus and Optimization
+### UC.4 Numerical Calculus and Optimization
 
 - Numerical differentiation, symbolic algebra, discretisation, and numerical error analysis
 
@@ -43,7 +53,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Numerical optimisation, root finding, and extreme values of functions
 
-### UC.4 Fourier Analysis and Applications
+### UC.5 Fourier Analysis and Applications
 
 - Fourier Series and introduction to Fourier Analysis
 
@@ -53,7 +63,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Gaussian Smoothing and Edge Detectors. Applications to Scientific Imaging
 
-### UC.5 Special Topics in Computational Physics
+### UC.6 Special Topics in Computational Physics
 
 - Wavelet analysis and discrete wavelet transform. Applications to non-static signals
 
@@ -67,9 +77,9 @@ This course provides an introduction to basic methods and techniques used in com
 
 The full course syllabus can be found here:
 
-- For BSc in Physics: https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_IISEM2025_fisica.pdf
+- For BSc in Physics: 
 
-- For BSc in Nanotechnology: https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_IISEM2025_nano.pdf
+- For BSc in Nanotechnology: 
 
 
 ## References and bibliography:
@@ -112,13 +122,15 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 16:00 - 17:00
+- On Tuesdays: 
 
-- On Thursdays: 09:00 - 10:00 
+- On Thursdays:  
 
 ## Class attendance:
 
 - As per regulations of the Vicerrector's office of Yachay Tech, you should attend 70% of the classes to pass the course.
+  
+- To justify an absence, please submit all the necessary official documentation within 5 days.
 
 ## On academic integrity:
 
