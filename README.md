@@ -122,9 +122,8 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 
-
-- On Thursdays:  
+- 11:00 - 12:00 Wednesday
+- 11:00 - 12:00 Friday
 
 ## Class attendance:
 
