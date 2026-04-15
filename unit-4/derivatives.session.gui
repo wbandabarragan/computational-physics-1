@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<Object name="VisIt">
+    <Field name="Version" type="string">3.3.3</Field>
+    <Object name="GUI">
+        <Object name="FileServerList">
+            <Field name="path" type="string">/Users/wbandabarragan/Library/CloudStorage/Dropbox/Nyuszik/python_course/computational-physics-1-main/unit-3/TURB_DRIVE_SUP_hr</Field>
+            <Field name="filter" type="string">*</Field>
+            <Field name="useCurrentDir" type="bool">true</Field>
+            <Field name="automaticFileGrouping" type="bool">true</Field>
+            <Field name="smartFileGrouping" type="bool">true</Field>
+            <Field name="showDotFiles" type="bool">false</Field>
+            <Object name="recentpaths">
+                <Field name="localhost" type="stringVector">"/Users/wbandabarragan" "/Users/wbandabarragan/Library/CloudStorage/Dropbox/Nyuszik/python_course/computational-physics-1-main/unit-3/TURB_DRIVE_SUP_hr" "/Users/wbandabarragan/Dropbox" "/Users/wbandabarragan/Dropbox/GitHub_Repos" "/Users/wbandabarragan/Dropbox/GitHub_Repos/computational-physics-1" "/Users/wbandabarragan/Dropbox/GitHub_Repos/computational-physics-1/unit-4" "/Users/wbandabarragan/Library/CloudStorage/Dropbox/Shared_folder/Data_Session3/simulation_data/TURB_DRIVE_SUP" </Field>
+            </Object>
+        </Object>
+        <Object name="AppearanceAttributes">
+            <Field name="useSystemDefault" type="bool">true</Field>
+            <Field name="background" type="string">#c0c0c0</Field>
+            <Field name="foreground" type="string">#000000</Field>
+            <Field name="fontName" type="string">Helvetica,12,-1,5,50,0,0,0,0,0</Field>
+            <Field name="style" type="string">macintosh</Field>
+            <Field name="orientation" type="int">0</Field>
+            <Field name="defaultForeground" type="string">#000000</Field>
+            <Field name="defaultBackground" type="string">#ececec</Field>
+            <Field name="defaultFontName" type="string">.AppleSystemUIFont,13,-1,5,50,0,0,0,0,0</Field>
+            <Field name="defaultStyle" type="string">Mac</Field>
+            <Field name="defaultOrientation" type="int">0</Field>
+        </Object>
+        <Field name="postWhenShown" type="bool">false</Field>
+        <Object name="Expressions">
+            <Field name="x" type="int">2310</Field>
+            <Field name="y" type="int">269</Field>
+            <Field name="width" type="int">813</Field>
+            <Field name="height" type="int">645</Field>
+            <Field name="visible" type="bool">true</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Object name="File open">
+            <Field name="x" type="int">500</Field>
+            <Field name="y" type="int">329</Field>
+            <Field name="width" type="int">649</Field>
+            <Field name="height" type="int">500</Field>
+            <Field name="visible" type="bool">false</Field>
+        </Object>
+        <Object name="Information">
+            <Field name="x" type="int">1988</Field>
+            <Field name="y" type="int">528</Field>
+            <Field name="width" type="int">498</Field>
+            <Field name="height" type="int">304</Field>
+            <Field name="visible" type="bool">false</Field>
+        </Object>
+        <Object name="MainWin">
+            <Field name="x" type="int">1906</Field>
+            <Field name="y" type="int">14</Field>
+            <Field name="width" type="int">402</Field>
+            <Field name="height" type="int">1018</Field>
+            <Field name="SPLITTER_VALUES_V2" type="floatVector">0 0.59447 0.3974654 </Field>
+        </Object>
+        <Object name="Pseudocolor plot attributes">
+            <Field name="x" type="int">2289</Field>
+            <Field name="y" type="int">290</Field>
+            <Field name="width" type="int">502</Field>
+            <Field name="height" type="int">520</Field>
+            <Field name="visible" type="bool">true</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Object name="Vector plot attributes">
+            <Field name="x" type="int">2028</Field>
+            <Field name="y" type="int">480</Field>
+            <Field name="width" type="int">595</Field>
+            <Field name="height" type="int">438</Field>
+            <Field name="visible" type="bool">false</Field>
+            <Field name="posted" type="bool">false</Field>
+        </Object>
+        <Field name="plotDatabases" type="stringVector">"localhost:/Users/wbandabarragan/Library/CloudStorage/Dropbox/Shared_folder/Data_Session3/simulation_data/TURB_DRIVE_SUP/data.*.vtk database" </Field>
+        <Object name="TimeFormat">
+            <Field name="displayMode" type="string">Cycles</Field>
+            <Field name="precision" type="int">5</Field>
+        </Object>
+        <Field name="showSelectedFiles" type="bool">false</Field>
+        <Field name="allowFileSelectionChange" type="bool">true</Field>
+        <Field name="enableWarningMessagePopups" type="bool">true</Field>
+    </Object>
+</Object>
