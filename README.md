@@ -54,7 +54,8 @@ This course provides an introduction to basic methods and techniques used in com
 
 ## Full Course Syllabus and Programme:
 
-The full course syllabus can be found here: https://github.com/wbandabarragan/computational-physics-1/blob/main/Syllabus_IISEM2026_fisica.pdf
+The full course syllabus can be found here:
+https://github.com/wbandabarragan/computational-physics-1/blob/main/Syllabus_IISEM2026_fisica.pdf
 
 ## References and bibliography:
 
