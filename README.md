@@ -12,8 +12,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 ## Programming languages and tools:
 - We work in **Linux** environments throughout the course.
-- **Python** is our main language.
-- Bring a laptop to class if you can.
+- **Python** is our main language and we will use IDEs and Google Colab to code.
 
 ## Syllabus:
 ### UC.1 Introduction to computer science
