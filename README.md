@@ -63,27 +63,35 @@ The full course syllabus can be found here:
 3. Pang, Tao, *An introduction to computational physics*, 2nd Edition, 2006.
 
 ## Evaluation:
-Evaluation has 4 components, each worth 25 points, distributed evenly over the two terms of the period (12.5% + 12.5% each):
+Evaluation has 4 components, each worth 25 %, distributed evenly over the two terms of the period:
 
-**1. Quizzes:** 25p
-**2. Homework defences:** 25p
-**3. 1 Midterm Exam:** 25p
-**4. 1 Final Exam:** 25p
+**1. Quizzes:** 25%
 
-**All defences are written and closed-book.**
+**2. Homework defences:** 25%
+
+**3. 1 Midterm Exam:** 25%
+
+**4. 1 Final Exam:** 25%
+
+**All code defences are written and closed-book.**
 
 
 ## On deadlines:
 The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
 
 ## Weekly class schedule:
+
 - 13:00 - 15:00 Tuesday
+
 - 09:00 - 11:00 Wednesday
+
 - 13:00 - 15:00 Friday
 
 ## Weekly tutoring schedule:
 If you have questions on the material, you can find me in the office:
+
 - 15:00 - 16:00 Tuesday
+
 - 11:00 - 12:00 Wednesday
 
 Location: 2nd floor, Senescyt Building, or on Zoom.
